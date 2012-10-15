@@ -18,9 +18,11 @@ dir('الولايات المتحدة الأمريكية'); // 'rtl'
 dir('Hello world'); // 'ltr'
 ```
 
-## Method
+## Methodology
 
-The decision is made based on the first character of the input string.
+The decision is made based on the first character of the input string,
+testing for a range of unicode characters that belong to rtl or ltr
+languages (see API to learn how to access the regular expressions).
 
 ## API
 
