@@ -1,0 +1,11 @@
+{
+  "name": "directionality",
+  "version": "0.1.0",
+  "devDependencies": {
+    "visionmedia/mocha": "*",
+    "guille/expect.js": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}

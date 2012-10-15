@@ -1,0 +1,13 @@
+{
+  "name": "directionality",
+  "version": "0.1.0",
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  },
+  "component": {
+    "scripts": {
+      "directionality/index.js": "index.js"
+    }
+  }
+}
