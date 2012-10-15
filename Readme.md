@@ -14,8 +14,8 @@ $ component install component/directionality
 
 ```js
 var dir = require('directionality');
-dir('الولايات المتحدة الأمريكية'); // 'right'
-dir('Hello world'); // 'left'
+dir('الولايات المتحدة الأمريكية'); // 'rtl'
+dir('Hello world'); // 'ltr'
 ```
 
 ## Method
