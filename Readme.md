@@ -33,11 +33,11 @@ languages (see API to learn how to access the regular expressions).
 
 ### directionality.regex.ltr
 
-  Access the regular expression of ltr charecters.
+  Access the regular expression of ltr characters.
 
 ### directionality.regex.rtl
 
-  Access the regular expression of rtl charecters.
+  Access the regular expression of rtl characters.
 
 ## License
 
